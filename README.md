@@ -1,5 +1,6 @@
 
-    <h1 align="center">Hi 👋, I'm Amit Kumar Gupta</h1>
+
+<h1 align="center">Hi 👋, I'm Amit Kumar Gupta</h1>
 <p align="center">A full-stack developer passionate about building scalable web apps, real-time systems, and AI-integrated platforms.</p>
 
 - 🎓 B.Tech CSE @ Lovely Professional University (CGPA: 9.0)  
