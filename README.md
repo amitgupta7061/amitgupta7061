@@ -4,7 +4,7 @@
 <p align="center">A full-stack developer passionate about building scalable web apps, real-time systems, and AI-integrated platforms.</p>
 
 - 🎓 B.Tech CSE @ Lovely Professional University (CGPA: 9.0)  
-- 💻 650+ problems on LeetCode | 280+ day streak | Top 25% rated  
+- 💻 950+ problems on LeetCode | 480+ day streak | Top 2% rated  
 - 🌐 Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
